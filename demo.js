@@ -1,4 +1,4 @@
-import { TokenGate } from '../tokengate/dist/index.mjs';
+import { TokenGate } from 'tokengate-core';
 
 console.log('='.repeat(65));
 console.log('  🛡️  TOKENGATE INTERACTIVE DEMONSTRATION & SAFETY HARNESS');

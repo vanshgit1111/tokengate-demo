@@ -8,6 +8,7 @@
     "start": "node demo.js"
   },
   "dependencies": {
-    "tokengate": "file:../tokengate"
+    "tokengate": "file:../tokengate",
+    "tokengate-core": "^1.0.0"
   }
 }
