@@ -1,0 +1,13 @@
+{
+  "name": "tokengate-demo",
+  "version": "1.0.0",
+  "description": "Interactive demonstration and testing harness for tokengate",
+  "type": "module",
+  "main": "demo.js",
+  "scripts": {
+    "start": "node demo.js"
+  },
+  "dependencies": {
+    "tokengate": "file:../tokengate"
+  }
+}
